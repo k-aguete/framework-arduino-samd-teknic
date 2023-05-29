@@ -1,0 +1,16 @@
+{
+    "name": "framework-arduino-samd-clearcore",
+    "version": "0.1.0",
+    "description": "Teknic ClearCore development board (cortex-m4)",
+    "keywords": [
+      "framework",
+      "arduino",
+      "microchip",
+      "samd"
+    ],
+    "license": "LGPL-2.1-or-later",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/k-aguete/ClearCore-Arduino-wrapper.git"
+    }
+  }
