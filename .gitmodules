@@ -1,3 +1,0 @@
-[submodule "variants/clearcore/lib"]
-	path = variants/clearcore/lib
-	url = git@github.com:k-aguete/clearcorelib.git
