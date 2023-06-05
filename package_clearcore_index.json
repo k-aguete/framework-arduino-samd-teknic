@@ -24,7 +24,7 @@
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
+              "version": "12.2.MPACBTI-Rel1"
             },
             {
               "packager": "arduino",
@@ -55,7 +55,7 @@
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
+              "version": "12.2.MPACBTI-Rel1"
             },
             {
               "packager": "arduino",
@@ -86,7 +86,7 @@
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
+              "version": "12.2.MPACBTI-Rel1"
             },
             {
               "packager": "arduino",
