@@ -1,0 +1,1 @@
+`libclearcore.a` [ceff5cbc4a2a309fdf2974304078b67a3f875966](https://github.com/k-aguete/clearcorelib/tree/ceff5cbc4a2a309fdf2974304078b67a3f875966)
